@@ -20,8 +20,14 @@ This is a simple yet functional calculator built using Python. The program uses 
 2. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Burhanali2211/Calculator.git
-cd python-calculator
-python calculator.py
+3. Then type the following command:
+   ```bash
+    cd python-calculator
+4. the fourth and the last step will be to run this python script by:
+   ```bash
+    python calculator.py
+
+Here is the example of output:
 
 Enter Your First Number: 10
 Select your operator (+, -, *, /) or 'exit' to quit: +
